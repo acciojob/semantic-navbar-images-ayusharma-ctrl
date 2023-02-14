@@ -1,2 +1,11 @@
+nav {
+	display:flex;
+	justify-content: start;
+	align-items:center;
+	background-color:lime;
+}
 
+a{
+	margin-right:20px;
+}
 /* Your CSS Code here. */
